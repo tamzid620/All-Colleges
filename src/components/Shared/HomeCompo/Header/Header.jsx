@@ -1,13 +1,14 @@
+import { Link } from "react-router-dom";
 
 
 const Header = () => {
 
     const Navbar = () => (
         <>
-            <li><a>Home</a></li>
-            <li><a>Colleges</a></li>
-            <li><a>Admission</a></li>
-            <li><a>My College</a></li>
+            <li><a ><Link to = "/">Home</Link></a></li>
+            <li><a><Link to = "/colleges">Colleges</Link></a></li>
+            <li><a><Link to = "/admission">Admission</Link></a></li>
+            <li><a><Link to = "/">My College</Link></a></li>
         </>
     );
 

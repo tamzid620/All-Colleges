@@ -9,6 +9,7 @@ import {
 import Home from './components/Pages/Home/Home.jsx';
 import ErrorPage from './components/Pages/ErrorPage/ErrorPage.jsx';
 import Colleges from './components/Pages/Colleges/Colleges.jsx';
+import Admission from './components/Pages/Admission/Admission';
 
 const router = createBrowserRouter([
   {
@@ -20,6 +21,10 @@ const router = createBrowserRouter([
         path: "/colleges",
         element: <Colleges/>,
       },
+      {
+        path: "/admission",
+        element: <Admission/>
+      }
     ],
   },
 ]);

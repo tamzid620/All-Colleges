@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "collegeImage": "college1.jpg",
+        "collegeName": "University of Exampleville",
+        "admissionDates": "Fall 2023",
+        "events": [
+            "Orientation Week",
+            "Homecoming",
+            "Career Fair"
+        ],
+        "researchHistory": "Founded in 1900, Exampleville University has a rich history of groundbreaking research.",
+        "sports": [
+            "Football",
+            "Basketball",
+            "Soccer"
+        ]
+    },
+    {
+        "id": 2,
+        "collegeImage": "college2.jpg",
+        "collegeName": "Tech Institute",
+        "admissionDates": "Spring 2024",
+        "events": [
+            "Hackathon",
+            "Tech Conference"
+        ],
+        "researchHistory": "Tech Institute is known for its cutting-edge research in computer science and engineering.",
+        "sports": [
+            "Swimming",
+            "Tennis"
+        ]
+    },
+    {
+        "id": 3,
+        "collegeImage": "college3.jpg",
+        "collegeName": "Arts Academy",
+        "admissionDates": "Fall 2023",
+        "events": [
+            "Art Exhibition",
+            "Drama Festival"
+        ],
+        "researchHistory": "Arts Academy has a long history of nurturing creative talent in the arts.",
+        "sports": []
+    },
+    {
+        "id": 4,
+        "collegeImage": "college4.jpg",
+        "collegeName": "Medical College",
+        "admissionDates": "Summer 2024",
+        "events": [
+            "Medical Symposium",
+            "Healthcare Expo"
+        ],
+        "researchHistory": "Medical College is a leader in medical research and healthcare education.",
+        "sports": [
+            "Volleyball"
+        ]
+    },
+    {
+        "id": 5,
+        "collegeImage": "college5.jpg",
+        "collegeName": "Business School",
+        "admissionDates": "Fall 2023",
+        "events": [
+            "Business Summit",
+            "Entrepreneurship Workshop"
+        ],
+        "researchHistory": "Business School is known for its expertise in business and entrepreneurship.",
+        "sports": [
+            "Golf"
+        ]
+    },
+    {
+        "id": 6,
+        "collegeImage": "college6.jpg",
+        "collegeName": "Environmental Science Institute",
+        "admissionDates": "Spring 2024",
+        "events": [
+            "Environmental Conference",
+            "Earth Day Celebration"
+        ],
+        "researchHistory": "Environmental Science Institute is dedicated to environmental conservation and research.",
+        "sports": []
+    }
+]
