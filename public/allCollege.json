@@ -1,15 +1,15 @@
 [
     {
         "id": 1,
-        "collegeImage": "college1.jpg",
-        "collegeName": "University of Exampleville",
+        "collegeImage": "https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/294533871_452474010218456_4912486654715331551_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=QwEdukoInwUAX_TXnkW&_nc_ht=scontent.fcgp3-2.fna&oh=00_AfBc-AcwuRLSps1Jr50Zr7XPvuWxFKr1M43iE4SCz5yYAA&oe=64E69796",
+        "collegeName": "Chittagong college",
         "admissionDates": "Fall 2023",
         "events": [
             "Orientation Week",
             "Homecoming",
             "Career Fair"
         ],
-        "researchHistory": "Founded in 1900, Exampleville University has a rich history of groundbreaking research.",
+        "researchHistory": "Chittagong college founded in 1900, Exampleville University has a rich history of groundbreaking research.",
         "sports": [
             "Football",
             "Basketball",
@@ -18,14 +18,14 @@
     },
     {
         "id": 2,
-        "collegeImage": "college2.jpg",
-        "collegeName": "Tech Institute",
+        "collegeImage": "https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/365988369_686811780155626_800451775565523913_n.jpg?stp=dst-jpg_s960x960&_nc_cat=108&ccb=1-7&_nc_sid=e3f864&_nc_ohc=gw-opSM22ZUAX8Wr6Em&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfBsCSFTc2hVCzbSs1_g1WzbPI-xFMc0ZXjdWcdOddoZpQ&oe=64E5DC30",
+        "collegeName": "International Islamic University Chittagong",
         "admissionDates": "Spring 2024",
         "events": [
             "Hackathon",
             "Tech Conference"
         ],
-        "researchHistory": "Tech Institute is known for its cutting-edge research in computer science and engineering.",
+        "researchHistory": "International Islamic University Chittagong is known for its cutting-edge research in computer science and engineering.",
         "sports": [
             "Swimming",
             "Tennis"
@@ -33,54 +33,54 @@
     },
     {
         "id": 3,
-        "collegeImage": "college3.jpg",
-        "collegeName": "Arts Academy",
+        "collegeImage": "https://scontent.fcgp3-1.fna.fbcdn.net/v/t1.6435-9/118582350_193453632168173_717627244667850811_n.jpg?_nc_cat=105&ccb=1-7&_nc_sid=8631f5&_nc_ohc=TsHDqAwTmEQAX8g79q8&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfAw6x3QV8hRMZYbXYwv5Rg6vlqwGBgCIGmvnNBiQKofSA&oe=65084F11",
+        "collegeName": "Govt.City College",
         "admissionDates": "Fall 2023",
         "events": [
             "Art Exhibition",
             "Drama Festival"
         ],
-        "researchHistory": "Arts Academy has a long history of nurturing creative talent in the arts.",
+        "researchHistory": "Govt.City College has a long history of nurturing creative talent in the arts.",
         "sports": []
     },
     {
         "id": 4,
-        "collegeImage": "college4.jpg",
-        "collegeName": "Medical College",
+        "collegeImage": "https://www.finddoctor24.com/wp-content/uploads/2017/09/Chittagong-Medical-College-Hopital.jpg",
+        "collegeName": "Chittagong Medical College",
         "admissionDates": "Summer 2024",
         "events": [
             "Medical Symposium",
             "Healthcare Expo"
         ],
-        "researchHistory": "Medical College is a leader in medical research and healthcare education.",
+        "researchHistory": "Chittagong Medical College is a leader in medical research and healthcare education.",
         "sports": [
             "Volleyball"
         ]
     },
     {
         "id": 5,
-        "collegeImage": "college5.jpg",
-        "collegeName": "Business School",
+        "collegeImage": "https://scontent.fcgp3-1.fna.fbcdn.net/v/t39.30808-6/325765254_742405940663610_5353698064715866294_n.jpg?stp=cp6_dst-jpg_s960x960&_nc_cat=100&ccb=1-7&_nc_sid=e3f864&_nc_ohc=a6OjGEPjDIYAX9vYCXE&_nc_ht=scontent.fcgp3-1.fna&oh=00_AfD6dqxPViOEx985A46A8Y0Nh0fIMWZQVNsnSMX5OkPuQQ&oe=64E5F822",
+        "collegeName": "Govt. Hazi Mohammad Mohsin College",
         "admissionDates": "Fall 2023",
         "events": [
             "Business Summit",
             "Entrepreneurship Workshop"
         ],
-        "researchHistory": "Business School is known for its expertise in business and entrepreneurship.",
+        "researchHistory": "Govt. Hazi Mohammad Mohsin College is known for its expertise in business and entrepreneurship.",
         "sports": [
             "Golf"
         ]
     },
     {
         "id": 6,
-        "collegeImage": "college6.jpg",
-        "collegeName": "Environmental Science Institute",
+        "collegeImage": "https://scontent.fcgp3-2.fna.fbcdn.net/v/t39.30808-6/326614586_1246332162623214_2456586102504286484_n.jpg?_nc_cat=111&ccb=1-7&_nc_sid=e3f864&_nc_ohc=SQB1wJY9U2AAX_DjLDy&_nc_ht=scontent.fcgp3-2.fna&oh=00_AfAmK9pMNad_uHU28NW5teaKz8H4HAVZCTGHyAk7BIzJIA&oe=64E6A1AE",
+        "collegeName": "Kulgaon City Corporation College",
         "admissionDates": "Spring 2024",
         "events": [
             "Environmental Conference",
             "Earth Day Celebration"
         ],
-        "researchHistory": "Environmental Science Institute is dedicated to environmental conservation and research.",
+        "researchHistory": "Kulgaon City Corporation College is dedicated to environmental conservation and research.",
         "sports": []
     }
 ]

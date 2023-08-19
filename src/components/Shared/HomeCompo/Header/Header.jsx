@@ -8,7 +8,7 @@ const Header = () => {
             <li><a ><Link to = "/">Home</Link></a></li>
             <li><a><Link to = "/colleges">Colleges</Link></a></li>
             <li><a><Link to = "/admission">Admission</Link></a></li>
-            <li><a><Link to = "/">My College</Link></a></li>
+            <li><a><Link to = "/mycollege">My College</Link></a></li>
         </>
     );
 
@@ -36,15 +36,6 @@ const Header = () => {
                     <a className="btn">Button</a>
                 </div>
             </div>
-            {/* Search Section-------------------------------- */}
-<div className="flex justify-center mt-10">
-<div>
-<input type="text" placeholder="Search Your Text" className="input input-bordered w-full max-w-xs" />
-</div>
-<div className="ml-3">
-<button className="btn btn-success">Search</button>
-</div>
-</div>
         </div>
     );
 };

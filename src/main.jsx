@@ -10,13 +10,19 @@ import Home from './components/Pages/Home/Home.jsx';
 import ErrorPage from './components/Pages/ErrorPage/ErrorPage.jsx';
 import Colleges from './components/Pages/Colleges/Colleges.jsx';
 import Admission from './components/Pages/Admission/Admission';
+import Layout from './components/Shared/Layout/Layout';
+import MyCollege from './components/Pages/MyCollege/MyCollege';
 
 const router = createBrowserRouter([
   {
     path: "/",
-    element: <Home/>,
+    element: <Layout/>,
     errorElement: <ErrorPage />,
-    children: [
+    children:[
+      {
+        path: "/",
+        element: <Home/>,
+      },
       {
         path: "/colleges",
         element: <Colleges/>,
@@ -24,6 +30,10 @@ const router = createBrowserRouter([
       {
         path: "/admission",
         element: <Admission/>
+      },
+      {
+        path:'/mycollege',
+        element:<MyCollege/>
       }
     ],
   },
