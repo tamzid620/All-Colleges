@@ -1,6 +1,3 @@
-import Footer from "../../Shared/HomeCompo/Footer/Footer";
-import Header from "../../Shared/HomeCompo/Header/Header";
-
 
 const Home = () => {
 
